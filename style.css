@@ -1,0 +1,18 @@
+form.search input[type=text] {
+    padding: 6px;
+    margin-left:30%;
+    font-size: 17px;
+}
+
+form.search input[type=button] {
+  margin-left:4%;
+  height: 35px;
+  width: 100px;
+}
+
+.flex-container{
+  display:flex;
+}
+.flex-container > div {
+  font-size: 15px;
+}
